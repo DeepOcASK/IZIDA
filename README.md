@@ -19,7 +19,7 @@ height="300">
 height="220">
 <p style="color: white" align="left-side">Yes, photos, of course, may not be enough. But you know how to search, right?<p>
   <img src="https://sun9-1.userapi.com/impg/XYxcLMABbxKsfzONu8FpAdAk2Du2qP7irBXL2w/hL8yuOeN4RE.jpg?size=640x409&quality=95&sign=a69b2361b18b598e858b7e8286815c3b&type=album" width="288"
-height="220">
+height="220"> 
 <p style="color: white" align="left-side">We used to conduct IRL expeditions, but now we work through the Internet!</p>
 <h2 style="color: lime" align="center">More than 364 people have already joined IZIDA!</h2>
 <p style="color: red" align="center">so YOU can too</p>
