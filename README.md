@@ -1,12 +1,10 @@
 # IZIDA
 Local project (ARG)
-<!DOCTYPE html>
 <html>
 <head>
 <title>IZIDA</title>
 </head>
 <body>
-<p>We can help with that!</p>
 <body style ="background-color:black;">
 <h1 style="color: lime" align="center">Tired of being useless?</h1>
 <h2 style="color: white" align="center">We can help with that!</h2>
@@ -20,6 +18,7 @@ height="200">
 <p style="color: white" align="left-side">Since then, we have managed a lot. Remember any strange or unusual event that has not been disclosed. It is likely that we had a hand in this.<p>
 <img src="https://sun9-1.userapi.com/impg/XYxcLMABbxKsfzONu8FpAdAk2Du2qP7irBXL2w/hL8yuOeN4RE.jpg?size=640x409&quality=95&sign=a69b2361b18b598e858b7e8286815c3b&type=album width="368"
 height="300">
+<br>
 <img src="https://sun9-65.userapi.com/impg/ysVpgOmkQ3jKZd6B9TiFxq0hEsJJdf-8o_d5IQ/efKw_OJ47q0.jpg?size=720x500&quality=95&sign=96f03e7f5af9ee4cb6ccc5d40161e06f&type=" width="288"
 height="220">
 <p style="color: white" align="left-side">We used to conduct IRL expeditions, but now we work through the Internet!</p>
