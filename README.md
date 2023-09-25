@@ -1,7 +1,7 @@
 # IZIDA
 <https>
-</head>
 <body>
+<head>
 <body style ="background-color:black;">
 <h1 style="color: lime" align="center">Tired of being useless?</h1>
 <h2 style="color: white" align="center">We can help with that!</h2>
