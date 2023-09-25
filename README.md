@@ -16,5 +16,3 @@ height="220">
 <p style="color: white" align="left-side">We used to conduct IRL expeditions, but now we work through the Internet!</p>
 <h2 style="color: lime" align="center">More than 364 people have already joined IZIDA!</h2>
 <p style="color: red" align="center">so YOU can too</p>
-</body>
-</html>
